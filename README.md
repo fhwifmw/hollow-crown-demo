@@ -53,15 +53,11 @@ The currently linked packages are **v0.2.16**:
 - [Windows](https://github.com/fhwifmw/hollow-crown-releases/releases/download/v0.2.16/HollowCrown-0.2.16-Windows.zip)
 - [Package checksums](https://github.com/fhwifmw/hollow-crown-releases/releases/download/v0.2.16/SHA256SUMS.txt)
 
-## VirusTotal scans
+## VirusTotal output
 
-Results are tied to the exact SHA-256 values below. The macOS app report is for `Hollow Crown.app.zip`; the linked v0.2.16 macOS download has a different hash and no public VirusTotal report. The Windows report matches the linked v0.2.16 Windows download. Analysis times are from 17 October 2026.
+[0/65 security vendors flagged this file](https://www.virustotal.com/gui/file/8a5e517cc559ec872ebbe1a264a89aa1486c14faa90d759eb6bac6da55be6efe).
 
-| Package | VirusTotal result | SHA-256 |
-| --- | --- | --- |
-| macOS app ZIP (`Hollow Crown.app.zip`) | [0/65 vendors flagged](https://www.virustotal.com/gui/file/8a5e517cc559ec872ebbe1a264a89aa1486c14faa90d759eb6bac6da55be6efe) · 10:17 GST | `8a5e517cc559ec872ebbe1a264a89aa1486c14faa90d759eb6bac6da55be6efe` |
-| macOS download ZIP (`HollowCrown-0.2.16-macOS.zip`) | No public report found | `a795656e5d35d28a07dfb66924e692ce738736a17b37dde423d004054b248a6b` |
-| Windows download ZIP (`HollowCrown-0.2.16-Windows.zip`) | [1/66 flagged: Bkav Pro (`W32.Malware.75404483`)](https://www.virustotal.com/gui/file/6523d4d6746fe3310f31bcf091798c9d7d448bd8792b2af847b09a6ac47246f2) · 10:29 GST | `6523d4d6746fe3310f31bcf091798c9d7d448bd8792b2af847b09a6ac47246f2` |
+SHA-256: `8a5e517cc559ec872ebbe1a264a89aa1486c14faa90d759eb6bac6da55be6efe` · Last analyzed 17 October 2026 at 10:17 GST.
 
 ## Future updates
 
