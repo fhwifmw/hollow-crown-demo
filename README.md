@@ -4,13 +4,13 @@
 ![Pre-release](https://img.shields.io/badge/status-pre--release-orange)
 [![License: Proprietary](https://img.shields.io/badge/license-proprietary-5b4b2a)](LICENSE)
 
-**A pre-release demo of an isometric Soulslike RPG.** Its planned scope is Chapter One: *The Sealed Gate*, from the title screen through the Crownhall.
+**A pre-release demo of Hollow Crown.** 
 
 ![Hollow Crown title screen](assets/screenshots/title-screen.png)
 
 ## What you'll play
 
-Hollow Crown Demo is an isometric, story-driven Soulslike set in a kingdom in ruin. Its planned demo boundary is the end of Chapter One: *The Sealed Gate*, at the Crownhall. Explore hostile camps and underground passages, follow the main story and side quests, and prepare for fights where stamina and timing matter.
+Hollow Crown Demo is an isometric, story-driven Soulslike set in a kingdom in ruin. Explore hostile camps and underground passages, follow the main story and side quests, and prepare for fights where stamina and timing matter.
 
 ## Explore and follow the story
 
@@ -59,9 +59,7 @@ The currently linked packages are **v0.2.16**:
 
 SHA-256: `8a5e517cc559ec872ebbe1a264a89aa1486c14faa90d759eb6bac6da55be6efe` · Last analyzed 17 October 2026 at 10:17 GST.
 
-## Future updates
-
-This repository documents the Hollow Crown Demo pre-release. Future updates will be published on itch.io.
+## Issues
 
 Questions or bug reports? [Open an issue](https://github.com/fhwifmw/hollow-crown-demo/issues/new).
 
