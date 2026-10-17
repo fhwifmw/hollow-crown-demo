@@ -12,7 +12,7 @@
 
 Hollow Crown is built around deliberate, stamina-based combat and a story-driven journey through a ruined kingdom. Fight with melee and ranged weapons, learn to dodge, guard, parry and riposte, then shape your character through weapon skills and six ability trees.
 
-Play solo, in local co-op, or online. Keyboard and mouse and Xbox and PlayStation controllers are supported.
+Play solo, in local co-op, or online. Online play requires v0.2.16 or newer. Keyboard and mouse and Xbox and PlayStation controllers are supported.
 
 ## Screenshots
 
