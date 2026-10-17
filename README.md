@@ -8,20 +8,42 @@
 
 ![Hollow Crown title screen](assets/screenshots/title-screen.png)
 
-## About the game
+## What you'll play
 
-Hollow Crown is built around deliberate, stamina-based combat and a story-driven journey through a ruined kingdom. Fight with melee and ranged weapons, learn to dodge, guard, parry and riposte, then shape your character through weapon skills and six 442-node ability trees.
+Hollow Crown is an isometric, story-driven Soulslike set in a kingdom in ruin. Chapter One: *The Sealed Gate* is playable from the title screen to the Crownhall. Explore hostile camps and underground passages, follow the main story and side quests, and prepare for fights where stamina and timing matter.
 
-Play solo, in local co-op, or online. Online play requires v0.2.16 or newer. Keyboard/mouse and Xbox/PlayStation controllers are supported.
+## Explore and follow the story
 
-## Screenshots
+Travel through places like the Marchwatch Camp, uncover routes and points of rest, and keep track of what comes next in the in-game journal. Main-story and side-quest objectives are recorded alongside the clues your character has uncovered.
 
 <p align="center">
   <img src="assets/screenshots/marchwatch-camp.png" alt="Exploring the Marchwatch Camp" width="49%">
-  <img src="assets/screenshots/hound-burrows.png" alt="A combat encounter in the Hound Burrows" width="49%">
+  <img src="assets/screenshots/quest-journal.png" alt="The journal tracking a main-story quest and its objectives" width="49%">
 </p>
 
-Screenshots are from the v0.2.15 game build.
+## Combat and dungeons
+
+Fight with melee and ranged weapons. Dodge, guard, parry, and riposte around enemy attacks, then use weapon skills to press an opening. Dungeon runs take you through linked rooms with enemies and loot before a boss encounter.
+
+<p align="center">
+  <img src="assets/screenshots/hound-burrows.png" alt="A combat encounter in the Hound Burrows" width="49%">
+  <img src="assets/screenshots/dungeon-boss.png" alt="The Swollen Den-Thing boss encounter in the Hound Burrows" width="49%">
+</p>
+
+## Build your character
+
+Earn Ability Points as you progress and shape your character across six 442-node ability trees. Choose specializations, tune your equipment, and bring weapons, armor, relics, quick items, and weapon skills suited to your approach.
+
+<p align="center">
+  <img src="assets/screenshots/ability-tree.png" alt="The Vanguard, Duelist, and Wayfarer branches of the ability tree" width="49%">
+  <img src="assets/screenshots/equipment.png" alt="The equipment screen showing weapons, armor, relics, and combat stats" width="49%">
+</p>
+
+## Play solo or with friends
+
+Play solo, in local co-op, or online. Keyboard and mouse and Xbox/PlayStation controllers are supported. Online play requires v0.2.16 or newer.
+
+The title, world, dungeon, and journal captures are from v0.2.15. The ability-tree and equipment screens show the updated v0.2.16 progression UI.
 
 ## Download
 
