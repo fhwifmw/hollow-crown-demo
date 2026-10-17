@@ -10,9 +10,9 @@
 
 ## About the game
 
-Hollow Crown is built around deliberate, stamina-based combat and a story-driven journey through a ruined kingdom. Fight with melee and ranged weapons, learn to dodge, guard, parry and riposte, then shape your character through weapon skills and six ability trees.
+Hollow Crown is built around deliberate, stamina-based combat and a story-driven journey through a ruined kingdom. Fight with melee and ranged weapons, learn to dodge, guard, parry and riposte, then shape your character through weapon skills and six 442-node ability trees.
 
-Play solo, in local co-op, or online. Online play requires v0.2.16 or newer. Keyboard and mouse and Xbox and PlayStation controllers are supported.
+Play solo, in local co-op, or online. Online play requires v0.2.16 or newer. Keyboard/mouse and Xbox/PlayStation controllers are supported.
 
 ## Screenshots
 
@@ -34,6 +34,8 @@ The latest public build is **v0.2.16**. Download the installer for your platform
 ## Official updates
 
 This is the official Hollow Crown home for news and future release notes. Follow [Releases](https://github.com/fhwifmw/hollow-crown/releases) for updates. The current v0.2.16 game downloads are in the [Hollow Crown Releases archive](https://github.com/fhwifmw/hollow-crown-releases/releases).
+
+Questions or bug reports? [Open an issue](https://github.com/fhwifmw/hollow-crown/issues/new).
 
 ## License
 
